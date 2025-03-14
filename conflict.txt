@@ -1,7 +1,7 @@
 Création d'un conflit
 
-Ligne1
+Ligne1-modif_master
 
-Ligne2
+Ligne2-modif_master
 
-Ligne3
+Ligne3-modif_master
