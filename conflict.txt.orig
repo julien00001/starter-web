@@ -1,0 +1,15 @@
+Création d'un conflit
+
+<<<<<<< HEAD
+Ligne1-modif_master
+
+Ligne2-modif_master
+
+Ligne3-modif_master
+=======
+Ligne1-modif_realwork
+
+Ligne2-modif_realwork
+
+Ligne3-modif_realwork
+>>>>>>> realwork

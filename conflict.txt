@@ -2,6 +2,6 @@ Création d'un conflit
 
 Ligne1-modif_master
 
-Ligne2-modif_master
+Ligne2
 
-Ligne3-modif_master
+Ligne3-modif_realwork
