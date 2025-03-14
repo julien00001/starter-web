@@ -16,3 +16,5 @@ Test difftool ajout ligne 19
 Comparing Directory and the staging Area ligne 1
 
 Comparing Directory and the staging Area ligne 4
+
+Modification Master
