@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Fichiers .orig (suite à résolution de conflit)
+*.orig
