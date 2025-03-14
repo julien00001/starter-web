@@ -1,7 +1,7 @@
 Création d'un conflit
 
-Ligne1
+Ligne1-modif_realwork
 
-Ligne2
+Ligne2-modif_realwork
 
-Ligne3
+Ligne3-modif_realwork
